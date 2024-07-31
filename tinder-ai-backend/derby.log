@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 31 17:34:40 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0191-08ad-993c-000008793bb8 
+on database directory memory:D:\SpringBootWorkSpace\tinder-ai-backend\5c8f1e34-86ea-47a7-a93f-bf40dfefe501 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/Swastik/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.2+9-70
+user.dir=D:\SpringBootWorkSpace\tinder-ai-backend
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
